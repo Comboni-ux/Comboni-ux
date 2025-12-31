@@ -2,19 +2,15 @@
 
 I'm Comboni, an Economics senior who got hooked on data analytics after watching Moneyball.
 
-Turns out, using data to make better decisions is exactly what I want to do. I started small—tracking stats for the amateur soccer team I managed, finding patterns that actually helped us win more games. Now I'm building a portfolio of real-world projects to tackle bigger problems.
+Turns out, using data to make better decisions is exactly what I want to do. I started small–tracking stats for the amateur soccer team I managed, finding patterns that actually helped us win more games. Now I'm building a portfolio of real-world projects to tackle bigger problems.
 
-I'm graduating in May 2026 and actively looking for my first role as a Data Analyst or Business Analyst.
+I'm graduating in May 2026 and am actively seeking my first role as a Data Analyst or Business Analyst.
 
 ## What I Work With
 
 - Excel (pivot tables, dashboards, the works)  
 - SQL, Tableau, R, Stata  
 - Currently learning Power BI, Python's next on the list
-
-## What I'm Good At
-
-Exploratory analysis • Finding patterns others miss • Making messy data tell a clear story • Asking "why does this matter?" before diving into the numbers.
 
 ## Projects You'll Find Here
 
