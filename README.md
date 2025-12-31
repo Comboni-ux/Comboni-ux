@@ -22,7 +22,7 @@ More coming as I build them. Everything here is real work on real problems.
 ## Random Facts
 
 ⚽ Big soccer fan and like being a leader!  
-🎬 Movies? I like movies where smart characters outthink the system, and the plan makes sense at the end. 
+🎬 Movies? I like movies where smart characters outthink the system, and the plan makes sense at the end.
 🔍 Obsessed with data validation
 
 
